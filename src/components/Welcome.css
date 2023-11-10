@@ -1,0 +1,13 @@
+.Welcome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+.Welcome img{
+    height: 20rem;
+}
+.Welcome h1 span{
+    color: #4e0eff;
+}
