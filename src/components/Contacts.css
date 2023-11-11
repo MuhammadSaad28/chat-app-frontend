@@ -27,7 +27,7 @@
   overflow-y: auto;
   overflow-x: none;
   gap: 0.8rem;
-    
+   height: 62vh; 
    
 }
 .contacts::-webkit-scrollbar {
