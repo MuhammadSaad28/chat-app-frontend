@@ -18,8 +18,19 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://talkhub28.netlify.app/",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#38dc0d",
+  "background_color": "#090909",
+  "id": "TalkHub",
+  "description": "TalkHub.Chat with Your Loved Ones",
+  "dir": "ltr",
+  "lang": "en",
+  "orientation": "any",
+  "iarc_rating_id": "13",
+  "prefer_related_applications": false,
+  "categories": [
+    "productivity",
+    "social"
+  ]
 }

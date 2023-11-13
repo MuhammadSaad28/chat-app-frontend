@@ -28,9 +28,13 @@
   overflow-y: auto;
   overflow-x: none;
   gap: 0.8rem;
+<<<<<<< HEAD
   height: 62vh;
   
     
+=======
+   height: 62vh; 
+>>>>>>> 713be1ac9d53131fc0663d76118bc907d2c398cd
    
 }
 .contacts::-webkit-scrollbar {
