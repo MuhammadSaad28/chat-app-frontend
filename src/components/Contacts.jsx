@@ -9,6 +9,7 @@ const Contacts = ({ contacts, currentUser , changeChat }) => {
     const [currentUserName, setCurrentUserName] = useState(undefined)
     const [currentUserImage, setCurrentUserImage] = useState(undefined)
     const [currentSelected, setCurrentSelected] = useState(undefined)
+    
     useEffect(()=>{
         if (!contacts) {
             return <div >

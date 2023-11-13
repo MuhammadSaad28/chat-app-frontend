@@ -6,8 +6,8 @@ import axios from 'axios'
 import { v4 as uuidv4 } from 'uuid'
 import { useMediaQuery } from 'react-responsive';
 import { BsArrowLeft } from 'react-icons/bs';
-import { useNavigate } from 'react-router-dom'
-import { addMsgAPI, getMsgAPI } from '../APIs'
+import { useNavigate } from 'react-router-dom';
+import { addMsgAPI, getMsgAPI } from '../APIs';
 
 
 const ChatContainer = ({ currentChat, currentUser , socket, setCurrentChat }) => {

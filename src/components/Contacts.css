@@ -8,6 +8,7 @@
   background-color: #080420;
   height: 100%;
   
+  
     
     
 }
@@ -27,6 +28,8 @@
   overflow-y: auto;
   overflow-x: none;
   gap: 0.8rem;
+  height: 62vh;
+  
     
    
 }
@@ -85,7 +88,7 @@
     
     
     @media screen and (min-width: 720px) and (max-width: 1080px) {
-        .container{
+        .container1{
 
             gap: 0.5rem;
         }
